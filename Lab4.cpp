@@ -59,7 +59,7 @@ int main(int argc, char *argv[]) {
  
      switch(argv[1][1]){
              case '1':Q1();break;
-             case '2':break;
-             case '3':break;
+             case '2':Q2();break;
+             case '3':Q3();break;
      }
 }
