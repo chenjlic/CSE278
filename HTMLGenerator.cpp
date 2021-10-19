@@ -56,7 +56,7 @@ int main()
 
     for (int i=0;i<Count;i++)
     {
-      HTML_Final = HTML_Final + "<tr><td>Movie[i]</td><td>Info[i]</td></tr>\n";
+      HTML_Final = HTML_Final + "<tr><td>"+Movie[i]+"</td><td>"+Info[i]+"</td></tr>\n";
       //==================ADD the item from the txt file into the table.
     }
 
