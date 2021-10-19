@@ -48,7 +48,7 @@ void Q3() {
      } else {
 	     std::cout<<res.at(word);
      }
-     std::cout<<res[s];
+ 
 }
  
 int main(int argc, char *argv[]) {
